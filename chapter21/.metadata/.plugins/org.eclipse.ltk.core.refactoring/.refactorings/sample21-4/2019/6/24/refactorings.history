@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="&apos;data.txt&apos; を &apos;sample21-4&apos; に移動" description="&apos;data.txt&apos; を &apos;sample21-4&apos; に移動" destination="/sample21-4" element1="sample21-4/data.txt" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1560521447331" updateReferences="true"/>
+</session>

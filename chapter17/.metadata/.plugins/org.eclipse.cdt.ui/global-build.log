@@ -1,0 +1,54 @@
+11:11:52 **** インクリメンタル・ビルド of configuration exec for project sample17-2B ****
+make all 
+Building file: ../sample17-2B.c
+Invoking: GCC C Compiler
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"sample17-2B.d" -MT"sample17-2B.o" -o "sample17-2B.o" "../sample17-2B.c"
+Finished building: ../sample17-2B.c
+ 
+Building target: sample17-2B
+Invoking: MacOS X C Linker
+gcc  -o "sample17-2B"  ./sample17-2B.o   
+Finished building target: sample17-2B
+ 
+11:11:59 **** インクリメンタル・ビルド of configuration exec for project sample17-2B ****
+make all 
+make: Nothing to be done for `all'.
+11:12:14 **** インクリメンタル・ビルド of configuration exec for project sample17-2B ****
+make all 
+Building file: ../sample17-2B.c
+Invoking: GCC C Compiler
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"sample17-2B.d" -MT"sample17-2B.o" -o "sample17-2B.o" "../sample17-2B.c"
+Finished building: ../sample17-2B.c
+ 
+Building target: sample17-2B
+Invoking: MacOS X C Linker
+gcc  -o "sample17-2B"  ./sample17-2B.o   
+Finished building target: sample17-2B
+ 
+11:12:20 **** インクリメンタル・ビルド of configuration exec for project sample17-2B ****
+make all 
+make: Nothing to be done for `all'.
+11:12:36 **** インクリメンタル・ビルド of configuration exec for project sample17-2B ****
+make all 
+make: Nothing to be done for `all'.
+11:12:59 **** インクリメンタル・ビルド of configuration exec for project sample17-2 ****
+make all 
+make: Nothing to be done for `all'.
+11:13:24 **** インクリメンタル・ビルド of configuration exec for project sample17-2B ****
+make all 
+make: Nothing to be done for `all'.
+11:13:27 **** インクリメンタル・ビルド of configuration exec for project sample17-2B ****
+make all 
+make: Nothing to be done for `all'.
+11:13:29 **** インクリメンタル・ビルド of configuration exec for project sample17-2B ****
+make all 
+make: Nothing to be done for `all'.
+11:13:30 **** インクリメンタル・ビルド of configuration exec for project sample17-2B ****
+make all 
+make: Nothing to be done for `all'.
+11:13:32 **** インクリメンタル・ビルド of configuration exec for project sample17-2B ****
+make all 
+make: Nothing to be done for `all'.
+11:13:33 **** インクリメンタル・ビルド of configuration exec for project sample17-2B ****
+make all 
+make: Nothing to be done for `all'.

@@ -1,0 +1,15 @@
+16:13:04 **** インクリメンタル・ビルド of configuration exec for project pass2-3 ****
+make all 
+Building file: ../pass2-3.c
+Invoking: GCC C Compiler
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"pass2-3.d" -MT"pass2-3.o" -o "pass2-3.o" "../pass2-3.c"
+Finished building: ../pass2-3.c
+ 
+Building target: pass2-3
+Invoking: MacOS X C Linker
+gcc  -o "pass2-3"  ./pass2-3.o   
+Finished building target: pass2-3
+ 
+
+16:13:04 Build Finished. 0 errors, 0 warnings. (経過 222ms)
+

@@ -1,0 +1,6 @@
+07:36:14 **** Rebuild of configuration exec for project _template2 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o aaa.o ../aaa.c 
+gcc -o _template2 aaa.o 
+Info: Nothing to build for _template2
+Info: Nothing to build for _template2

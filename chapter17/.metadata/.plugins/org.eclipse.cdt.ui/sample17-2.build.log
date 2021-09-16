@@ -1,0 +1,6 @@
+11:12:59 **** インクリメンタル・ビルド of configuration exec for project sample17-2 ****
+make all 
+make: Nothing to be done for `all'.
+
+11:12:59 Build Finished. 0 errors, 0 warnings. (経過 70ms)
+

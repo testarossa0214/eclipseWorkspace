@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="&apos;sample21-5.c, util.h, data.csv&apos; を &apos;sample21-5&apos; に移動" description="3 個のリソースを &apos;sample21-5&apos; に移動" destination="/sample21-5" element1="sample21-5/sample21-5.c" element2="sample21-5/util.h" element3="sample21-5/data.csv" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="3" stamp="1560521334708" updateReferences="true"/>
+</session>

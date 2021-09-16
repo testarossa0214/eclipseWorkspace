@@ -1,0 +1,5 @@
+17:13:34 **** Rebuild of configuration exec for project sample3-4 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o sample3-4.o ../sample3-4.c 
+gcc -o sample3-4 sample3-4.o 
+Info: Nothing to build for sample3-4

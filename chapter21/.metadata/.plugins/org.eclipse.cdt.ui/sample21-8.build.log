@@ -1,0 +1,15 @@
+23:13:05 **** インクリメンタル・ビルド of configuration exec for project sample21-8 ****
+make all 
+Building file: ../sample21-8.c
+Invoking: GCC C Compiler
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"sample21-8.d" -MT"sample21-8.o" -o "sample21-8.o" "../sample21-8.c"
+Finished building: ../sample21-8.c
+ 
+Building target: sample21-8
+Invoking: MacOS X C Linker
+gcc  -o "sample21-8"  ./sample21-8.o   
+Finished building target: sample21-8
+ 
+
+23:13:05 Build Finished. 0 errors, 0 warnings. (経過 217ms)
+

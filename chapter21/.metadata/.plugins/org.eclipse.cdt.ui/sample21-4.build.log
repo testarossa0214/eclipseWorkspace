@@ -1,0 +1,15 @@
+23:12:48 **** ビルド of configuration exec for project sample21-4 ****
+make all 
+Building file: ../sample21-4.c
+Invoking: GCC C Compiler
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"sample21-4.d" -MT"sample21-4.o" -o "sample21-4.o" "../sample21-4.c"
+Finished building: ../sample21-4.c
+ 
+Building target: sample21-4
+Invoking: MacOS X C Linker
+gcc  -o "sample21-4"  ./sample21-4.o   
+Finished building target: sample21-4
+ 
+
+23:12:49 Build Finished. 0 errors, 0 warnings. (経過 223ms)
+

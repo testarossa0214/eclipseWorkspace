@@ -1,0 +1,12 @@
+content_assist_disabled_computers=org.eclipse.cdt.ui.textProposalCategory\u0000org.eclipse.cdt.ui.parserProposalCategory\u0000
+eclipse.preferences.version=1
+editor_folding_enabled=false
+org.eclipse.cdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="false" context\="org.eclipse.cdt.core.cSource.contenttype_context" deleted\="false" description\="Default template for newly created C source files" enabled\="true" id\="org.eclipse.cdt.ui.text.codetemplates.csourcefile" name\="\u30C7\u30D5\u30A9\u30EB\u30C8 C \u30BD\u30FC\u30B9\u30FB\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8">\#include &lt;stdio.h&gt;\nint main(void) {\n\t// \u3053\u3053\u306B\u30B3\u30FC\u30C9\u3092\u633F\u5165\n\t\n\treturn 0;\n}</template></templates>
+semanticHighlighting.enumerator.italic=false
+semanticHighlighting.staticField.italic=false
+semanticHighlighting.staticMethod.italic=false
+sourceHoverBackgroundColor=255,255,255
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

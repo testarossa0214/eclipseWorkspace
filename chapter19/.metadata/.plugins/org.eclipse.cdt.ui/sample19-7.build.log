@@ -1,0 +1,13 @@
+08:21:48 **** インクリメンタル・ビルド of configuration exec for project sample19-7 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o sub.o ../sub.c 
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o main.o ../main.c 
+gcc -o sample19-7 main.o sub.o 
+Undefined symbols for architecture x86_64:
+  "_number", referenced from:
+      _sub2 in sub.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+08:21:49 ビルドに失敗しました。1 errors, 0 warnings. (経過 460ms)
+
