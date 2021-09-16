@@ -1,0 +1,7 @@
+03:52:37 **** インクリメンタル・ビルド of configuration exec for project pass4-3 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o pass4-3.o ../pass4-3.c 
+gcc -o pass4-3 pass4-3.o 
+
+03:52:38 Build Finished. 0 errors, 0 warnings. (経過 597ms)
+
