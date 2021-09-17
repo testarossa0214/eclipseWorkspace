@@ -1,12 +1,5 @@
-17:25:03 **** ビルド of configuration exec for project sample5-2 ****
-make all 
-Building file: ../sample5-2.c
-Invoking: GCC C Compiler
-gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"sample5-2.d" -MT"sample5-2.o" -o "sample5-2.o" "../sample5-2.c"
-Finished building: ../sample5-2.c
- 
-Building target: sample5-2
-Invoking: MacOS X C Linker
-gcc  -o "sample5-2"  ./sample5-2.o   
-Finished building target: sample5-2
- 
+13:26:18 **** Rebuild of configuration exec for project sample5-1 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o sample5-1.o ../sample5-1.c 
+gcc -o sample5-1 sample5-1.o 
+Info: Nothing to build for sample5-1
