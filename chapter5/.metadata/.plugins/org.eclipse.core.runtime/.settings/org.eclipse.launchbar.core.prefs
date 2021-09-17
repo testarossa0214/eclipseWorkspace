@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,\u30ED\u30FC\u30AB\u30EB/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,\u30ED\u30FC\u30AB\u30EB/name=\u30ED\u30FC\u30AB\u30EB
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,\u30ED\u30FC\u30AB\u30EB/os=macosx
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:sample5-1
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:sample5-1,org.eclipse.launchbar.core.descriptorType.default\:ex5-1-1,org.eclipse.launchbar.core.descriptorType.default\:sample5-2,org.eclipse.launchbar.core.descriptorType.default\:pass5-2,org.eclipse.launchbar.core.descriptorType.default\:pass5-3
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:ex4-3-1/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:ex4-3-1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:\u30ED\u30FC\u30AB\u30EB

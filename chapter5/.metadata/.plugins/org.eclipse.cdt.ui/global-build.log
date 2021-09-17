@@ -1,5 +1,14 @@
-13:26:18 **** Rebuild of configuration exec for project sample5-1 ****
+17:15:21 **** インクリメンタル・ビルド of configuration exec for project pass5-3 ****
 Info: Internal Builder is used for build
-gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o sample5-1.o ../sample5-1.c 
-gcc -o sample5-1 sample5-1.o 
-Info: Nothing to build for sample5-1
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o pass5-3.o ../pass5-3.c 
+gcc -o pass5-3 pass5-3.o 
+Info: Nothing to build for pass5-3
+17:16:42 **** インクリメンタル・ビルド of configuration exec for project pass5-3 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o pass5-3.o ../pass5-3.c 
+gcc -o pass5-3 pass5-3.o 
+17:17:25 **** インクリメンタル・ビルド of configuration exec for project pass5-3 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o pass5-3.o ../pass5-3.c 
+gcc -o pass5-3 pass5-3.o 
+Info: Nothing to build for pass5-3

@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main(void) {
+	// ここにコードを挿入
+	double a, b, h, s;
+	printf("上底＝");	scanf("%lf\n", &a);
+	printf("下底＝"); scanf("%lf\n", &b);
+	printf("高さ＝"); scanf("%lf\n", &h);
+	printf("台形の面積＝(%f+%f)×%f÷2=%d", a, b, h, s=(a+b)*h/2);
+	return 0;
+}
