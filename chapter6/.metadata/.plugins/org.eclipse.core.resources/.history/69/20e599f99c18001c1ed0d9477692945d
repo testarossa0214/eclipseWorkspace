@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main(void) {
+	// ここにコードを挿入
+	double x;
+	printf("double>");
+	scanf("%6.2lf", &x);
+	printf("%fの2乗は%014.5eです", x, x*x);
+	return 0;
+}

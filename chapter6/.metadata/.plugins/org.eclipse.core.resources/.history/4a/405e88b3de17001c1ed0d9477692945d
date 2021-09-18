@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main(void) {
+	// ここにコードを挿入
+	char A;
+	printf("%c", A);
+	int a = (int)A;
+	printf("%d", a);
+	printf("%x", a);
+	printf("%o", a);
+	return 0;
+}

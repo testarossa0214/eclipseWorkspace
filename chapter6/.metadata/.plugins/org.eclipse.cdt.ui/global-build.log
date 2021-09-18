@@ -1,0 +1,5 @@
+01:36:14 **** Rebuild of configuration exec for project pass6-4 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o pass6-4.o ../pass6-4.c 
+gcc -o pass6-4 pass6-4.o 
+Info: Nothing to build for pass6-4
