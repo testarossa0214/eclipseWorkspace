@@ -1,0 +1,7 @@
+04:48:15 **** Rebuild of configuration exec for project ex7-5-2 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o ex7-5-2.o ../ex7-5-2.c 
+gcc -o ex7-5-2 ex7-5-2.o 
+
+04:48:16 Build Finished. 0 errors, 0 warnings. (経過 617ms)
+

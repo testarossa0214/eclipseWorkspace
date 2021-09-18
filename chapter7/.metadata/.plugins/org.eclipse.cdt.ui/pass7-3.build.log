@@ -1,0 +1,7 @@
+06:28:17 **** インクリメンタル・ビルド of configuration exec for project pass7-3 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o pass7-3.o ../pass7-3.c 
+gcc -o pass7-3 pass7-3.o 
+
+06:28:18 Build Finished. 0 errors, 0 warnings. (経過 894ms)
+

@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main(void) {
+	// ここにコードを挿入
+	uint8_t a = 0B01101101;
+	
+	return 0;
+}
