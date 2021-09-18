@@ -10,4 +10,3 @@ spelling_locale_initialized=true
 spelling_user_dictionary_encoding=
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true
-wizard.preferred.toolchains=cdt.managedbuild.toolchain.gnu.macosx.exe.debug
