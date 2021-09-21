@@ -1,0 +1,11 @@
+15:45:18 **** インクリメンタル・ビルド of configuration exec for project pass8-4 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o pass8-4.o ../pass8-4.c 
+../pass8-4.c:4:6: warning: unused variable 'times' [-Wunused-variable]
+        int times[]={1, 2, 3, 4, 5};
+            ^
+1 warning generated.
+gcc -o pass8-4 pass8-4.o 
+
+15:45:19 Build Finished. 0 errors, 1 warnings. (経過 606ms)
+

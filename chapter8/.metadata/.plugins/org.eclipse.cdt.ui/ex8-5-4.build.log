@@ -1,0 +1,7 @@
+14:33:29 **** インクリメンタル・ビルド of configuration exec for project ex8-5-4 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o ex8-5-4.o ../ex8-5-4.c 
+gcc -o ex8-5-4 ex8-5-4.o 
+
+14:33:30 Build Finished. 0 errors, 0 warnings. (経過 588ms)
+

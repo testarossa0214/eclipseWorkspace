@@ -1,0 +1,7 @@
+12:24:47 **** インクリメンタル・ビルド of configuration exec for project sample8-2 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o sample8-2.o ../sample8-2.c 
+gcc -o sample8-2 sample8-2.o 
+
+12:24:48 Build Finished. 0 errors, 0 warnings. (経過 597ms)
+
