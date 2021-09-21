@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main(void) {
+	// ここにコードを挿入
+	double x, total=0, ken=0;
+	while(scanf("%lf", &x)!=EOF){
+		total += x;
+		ken++;
+	}
+	printf("合計=%f\n", total);
+	printf("平均=%f\n", total/ken);
+	return 0;
+}

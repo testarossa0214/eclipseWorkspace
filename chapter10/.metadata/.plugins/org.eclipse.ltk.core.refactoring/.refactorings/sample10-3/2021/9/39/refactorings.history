@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;sample10-3/sample10-3.c&apos; を &apos;ex10-3-3.c&apos; に変更します" description="リソース &apos;sample10-3.c&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="sample10-3.c" name="ex10-3-3.c" stamp="1632248023074" updateReferences="true"/>
+</session>

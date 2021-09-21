@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main(void) {
+	// ここにコードを挿入
+	double data;
+	while(scanf("%lf", &data)!=EOF){
+		printf("%f\n", data);
+	}
+	return 0;
+}

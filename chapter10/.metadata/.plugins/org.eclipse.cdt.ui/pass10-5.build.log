@@ -1,0 +1,15 @@
+04:38:18 **** インクリメンタル・ビルド of configuration exec for project pass10-5 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o pass10-5.o ../pass10-5.c 
+../pass10-5.c:11:3: warning: variable 'i' is uninitialized when used here [-Wuninitialized]
+                i++;
+                ^
+../pass10-5.c:4:16: note: initialize the variable 'i' to silence this warning
+        int n, a, b, i;
+                      ^
+                       = 0
+1 warning generated.
+gcc -o pass10-5 pass10-5.o 
+
+04:38:18 Build Finished. 0 errors, 1 warnings. (経過 406ms)
+

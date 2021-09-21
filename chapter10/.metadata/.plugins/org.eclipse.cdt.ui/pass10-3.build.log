@@ -1,0 +1,7 @@
+04:14:55 **** Rebuild of configuration exec for project pass10-3 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o pass10-3.o ../pass10-3.c 
+gcc -o pass10-3 pass10-3.o 
+
+04:14:55 Build Finished. 0 errors, 0 warnings. (経過 678ms)
+
