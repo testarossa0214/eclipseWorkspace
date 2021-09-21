@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main(void) {
+	// ここにコードを挿入
+	int x = 100;
+	int total = 0;
+	for(int i=100; i<1000; i++){
+		x += 1;
+	}
+	printf("%d\n", x);
+	return 0;
+}

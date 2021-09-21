@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,\u30ED\u30FC\u30AB\u30EB/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,\u30ED\u30FC\u30AB\u30EB/name=\u30ED\u30FC\u30AB\u30EB
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,\u30ED\u30FC\u30AB\u30EB/os=macosx
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:sample8-1,org.eclipse.launchbar.core.descriptorType.default\:ex8-1-1,org.eclipse.launchbar.core.descriptorType.default\:sample8-2,org.eclipse.launchbar.core.descriptorType.default\:ex8-2-1,org.eclipse.launchbar.core.descriptorType.default\:ex8-2-2,org.eclipse.launchbar.core.descriptorType.default\:ex8-2-3,org.eclipse.launchbar.core.descriptorType.default\:ex8-5-1,org.eclipse.launchbar.core.descriptorType.default\:ex8-5-2,org.eclipse.launchbar.core.descriptorType.default\:ex8-5-3,org.eclipse.launchbar.core.descriptorType.default\:ex8-5-4,org.eclipse.launchbar.core.descriptorType.default\:pass8-2,org.eclipse.launchbar.core.descriptorType.default\:pass8-3,org.eclipse.launchbar.core.descriptorType.default\:pass8-4
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:sample9-1,org.eclipse.launchbar.core.descriptorType.default\:ex9-1-1,org.eclipse.launchbar.core.descriptorType.default\:ex9-1-2,org.eclipse.launchbar.core.descriptorType.default\:sample9-2,org.eclipse.launchbar.core.descriptorType.default\:ex9-2-1,org.eclipse.launchbar.core.descriptorType.default\:ex9-3-1,org.eclipse.launchbar.core.descriptorType.default\:ex9-5-1,org.eclipse.launchbar.core.descriptorType.default\:pass9-2,org.eclipse.launchbar.core.descriptorType.default\:pass9-3,org.eclipse.launchbar.core.descriptorType.default\:pass9-4,org.eclipse.launchbar.core.descriptorType.default\:pass9-5
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:ex4-3-1/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:ex4-3-1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:\u30ED\u30FC\u30AB\u30EB
@@ -17,3 +17,5 @@ org.eclipse.launchbar.core.descriptorType.default\:sample7-6/activeLaunchMode=ru
 org.eclipse.launchbar.core.descriptorType.default\:sample7-6/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:\u30ED\u30FC\u30AB\u30EB
 org.eclipse.launchbar.core.descriptorType.default\:sample8-1/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:sample8-1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:\u30ED\u30FC\u30AB\u30EB
+org.eclipse.launchbar.core.descriptorType.default\:sample9-1/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:sample9-1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:\u30ED\u30FC\u30AB\u30EB

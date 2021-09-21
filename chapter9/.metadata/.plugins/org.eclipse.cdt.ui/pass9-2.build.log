@@ -1,0 +1,7 @@
+22:07:11 **** インクリメンタル・ビルド of configuration exec for project pass9-2 ****
+Info: Internal Builder is used for build
+gcc -std=c11 -O0 -g3 -Wall -c -fmessage-length=0 -o pass9-2.o ../pass9-2.c 
+gcc -o pass9-2 pass9-2.o 
+
+22:07:11 Build Finished. 0 errors, 0 warnings. (経過 676ms)
+

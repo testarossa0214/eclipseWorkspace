@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include "util.h"
+int main(void) {
+	// ここにコードを挿入
+	int numbers[]={36, 12, 2, 8, 12, 88, 23, 55, 62, 90};
+	double data[]={0.112, 0.3, 22.123, 4.16, 0.0001};
+	char ch[]={'H','E','L','L','O','!'};
+
+	printf("%d\n", countof(numbers));
+	printf("%f\n", countof(data));
+	printf("%c\n", countof(ch))
+	
+	return 0;
+}

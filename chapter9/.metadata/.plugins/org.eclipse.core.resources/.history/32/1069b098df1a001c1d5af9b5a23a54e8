@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include "util.h"
+int main(void) {
+	// ここにコードを挿入
+	int array[]={505, 633, 1254, 189, 755};
+	int size = countof(array);
+	int total = 0;
+	for (int i=0; i<size; i++){
+		total += array[i];
+	}
+	double tax = 0.05;
+	printf("税額=%d\n",total* (int)tax);
+	return 0;
+}
